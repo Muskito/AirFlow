@@ -1,2 +1,2 @@
 # AirFlow
-Management App
+Just a small management app for my brothers buisness.
